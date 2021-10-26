@@ -67,6 +67,11 @@ jB.remove();
 // 14 a
 const divs =document.querySelectorAll(`div`);
 console.dir(divs);
+// for (b of divs){
+//     divs.classList.toggle(`background`);
+// }
+// console.log(divs);
+
 
 
 
